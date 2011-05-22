@@ -1,0 +1,3 @@
+module Railslog
+  # Your code goes here...
+end
