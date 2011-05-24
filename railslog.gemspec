@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Maxim Chernyak"]
   s.email       = ["max@bitsonnet.com"]
-  s.homepage    = ""
+  s.homepage    = "http://github.com/maxim/railslog"
   s.summary     = %q{A simple client for Rails CHANGELOG files stored on github.}
   s.description = %q{Provides a convenient API for accessing Rails CHANGELOG files.}
 
